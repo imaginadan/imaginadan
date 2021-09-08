@@ -40,9 +40,9 @@
 ## Connect with me <img src="https://media1.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=790b761157480941d541a2243e83bfbef63766712fabc639&rid=giphy.gif&ct=s" height="30px">
   
 <a href="https://br.linkedin.com/in/ramcarlos?trk=public_profile_samename-profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin">
-<a href="mailto:ramcarlos.dev@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-<a href="https://medium.com/@ramcarlos"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" >
-<a href="#"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="mailto:ramcarlos.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+<a href="https://medium.com/@ramcarlos" target="_blank"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" >
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </div>
 
 <!-- Footer -->
