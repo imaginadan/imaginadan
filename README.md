@@ -8,8 +8,8 @@
 <!-- Bio -->
 ## I'm a Software Developer <img src="https://media0.giphy.com/media/lq4OYg1yffhDdrnL39/200.webp?cid=ecf05e47x2fytly67jodxtllbp3uhg3c354wz5b8uoq8skkl&rid=200.webp&ct=s" height="30">
 
-- 🔭 I’m currently looking for my **1º intership**
-- 📙 I’m currently learning at **The Web Developer Bootcamp 2021 (Udemy)**
+- 🔭 I’m currently working at **IBM - Microservices**
+- 📙 I’m currently learning at **Estácio de Sá - System Analysis and Development**
 - 🎯 2022 Goals: Learn React ⚛️ and build the next Facebook 😂
 - ⚡ Hobbies: Playing guitar and Sports
 <br>
