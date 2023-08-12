@@ -8,10 +8,9 @@
 <!-- Bio -->
 ## I'm a Software Developer <img src="https://media0.giphy.com/media/lq4OYg1yffhDdrnL39/200.webp?cid=ecf05e47x2fytly67jodxtllbp3uhg3c354wz5b8uoq8skkl&rid=200.webp&ct=s" height="30">
 
-- 🔭 I’m currently working at **IBM - Microservices**
+- 🔭 I’m currently working to Master Digital Marketing
 - 📙 I’m currently learning at **Estácio de Sá - System Analysis and Development**
-- 🎯 2022 Goals: Learn React ⚛️ and build the next Facebook 😂
-- ⚡ Hobbies: Playing guitar and Sports
+- ⚡ Hobbies: Playing guitar and Sports 
 <br>
 
 <!-- bordão -->
@@ -24,12 +23,11 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Bulma](https://img.shields.io/badge/BULMA-green?style=for-the-badge&logo=bulma)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) 
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
@@ -40,9 +38,7 @@
 ## Connect with me <img src="https://media1.giphy.com/media/MaI6BylfjAkDkfk4OC/giphy.gif?cid=790b761157480941d541a2243e83bfbef63766712fabc639&rid=giphy.gif&ct=s" height="30px">
   
 <a href="https://br.linkedin.com/in/ramcarlos?trk=public_profile_samename-profile"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"  alt="Linkedin">
-<a href="mailto:ramcarlos.dev@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-<a href="https://medium.com/@ramcarlos" target="_blank"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logo=Medium&logoColor=white" >
-<a href="#" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<a href="#" target="_blank"><img src="https://img.shields.io/badge/Blog-%23000000.svg?style=for-the-badge&logoColor=white" >
 </div>
 
 <!-- Footer -->
