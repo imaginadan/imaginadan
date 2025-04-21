@@ -8,8 +8,8 @@
 <!-- Bio -->
 ## I'm a Software Developer <img src="https://media0.giphy.com/media/lq4OYg1yffhDdrnL39/200.webp?cid=ecf05e47x2fytly67jodxtllbp3uhg3c354wz5b8uoq8skkl&rid=200.webp&ct=s" height="30">
 
-- 🔭 I’m currently working to Master Digital Marketing
-- 📙 I’m currently learning at **Estácio de Sá - System Analysis and Development**
+- 🔭 I’m currently looking for a new challenge || job
+- 📙 Graduated at **Estácio de Sá - System Analysis and Development**
 - ⚡ Hobbies: Playing guitar and Sports 
 <br>
 
